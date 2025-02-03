@@ -32,6 +32,7 @@ Steps
    npm start
 
 Usage:
+
 Sending a Message
 - To send a message, run:
   npm start
