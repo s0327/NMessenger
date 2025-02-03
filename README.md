@@ -41,7 +41,7 @@ Sending a Message
   - Message Content
  
 Reading a Message
-To check messages, select the read option and input the recipient’s name. Messages will be displayed along with timestamps, and their "Read Timestamp" is updated in the database.
+- To check messages, select the read option and input the recipient’s name. Messages will be displayed along with timestamps, and their "Read Timestamp" is updated in the database.
 
 References:
 - Notion API Documentation: https://developers.notion.com/
